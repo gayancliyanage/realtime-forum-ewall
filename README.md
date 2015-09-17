@@ -1,2 +1,4 @@
 # realtime-forum-ewall
-real time multi purpose forum
+ewall is a angular, express, nodejs and mongodb based real time forum which can use to server forum needs in applications
+
+
